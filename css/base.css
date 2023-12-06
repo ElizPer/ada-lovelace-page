@@ -9,6 +9,10 @@
 .flex-item-1 {
 	flex: 1;
 }
+.style-image-tamanho{
+  	width: 400px;
+}
+
  .fr-clearfix::after {
     clear: both;
     display: block;
