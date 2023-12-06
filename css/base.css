@@ -11,6 +11,12 @@
 }
 .style-image-tamanho{
   	width: 400px;
+	align: center;
+}
+.style-section-image-2{
+	padding-left: ,;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
  .fr-clearfix::after {
