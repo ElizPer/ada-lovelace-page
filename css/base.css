@@ -5,8 +5,6 @@
  */
 .flex-imagem {
 	display: flex;
-	padding-left: 0px;
-	padding-right: 0px;
 }
 .flex-item-1 {
 	flex: 1;
@@ -15,7 +13,10 @@
   	width: 400px;
 	align-items: center;
 }
-
+.selection-style{
+    padding-left: 0px;
+    padding-right: 0px;
+}
  .fr-clearfix::after {
     clear: both;
     display: block;
