@@ -9,11 +9,6 @@
 .flex-item-1 {
 	flex: 1;
 }
-.container-imagem{
-	max-width: 50%;
-	margin: 0 auto;
-}
-
  .fr-clearfix::after {
     clear: both;
     display: block;
@@ -7213,9 +7208,6 @@
   }
   .u-image-circle.u-image {
     border-radius: 50% !important;
-  }
-  .u-image-circle-min.u-image {
-    border-radius: 55% !important;
   }
   .u-image-square {
     border-radius: 0;
