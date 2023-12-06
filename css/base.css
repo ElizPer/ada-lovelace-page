@@ -9,6 +9,10 @@
 .flex-item-1 {
 	flex: 1;
 }
+.container-imagem{
+	max-width: 50%;
+	margin: 0 auto;
+}
 
  .fr-clearfix::after {
     clear: both;
