@@ -14,8 +14,7 @@
 	align-items: center;
 }
 .tirarPadding{
-    padding-left: 0px;
-    padding-right: 0px;
+    padding: 0px;
 }
  .fr-clearfix::after {
     clear: both;
