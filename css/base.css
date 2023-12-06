@@ -7204,6 +7204,9 @@
   .u-image-circle.u-image {
     border-radius: 50% !important;
   }
+  .u-image-circle-min {
+    border-radius: 20% !important;
+  }
   .u-image-square {
     border-radius: 0;
   }
